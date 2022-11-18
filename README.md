@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NixzFX
+- 👀 I’m interested in trying learning Java
+- 🌱 Currently learning Python, JavaScript
+- 📫 Discord : nixz.sh#5302
